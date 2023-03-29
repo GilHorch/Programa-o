@@ -1,17 +1,15 @@
 .divisao{
-    margin: 5px;
-	background: tomato;
-	text-align: center;
-	font-size: 1.5em;
-	width: 50px;
+    max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	align-items: center;
 }
 
 .container {
 
-    margin: 5px;
-    background: rgb(205, 255, 149);
-    text-align: center;
-    font-size: 1.5em;
-    width: 50px;
+    max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	align-items: center;
 
 }
